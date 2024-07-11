@@ -1,16 +1,25 @@
 # flutter_financial_app_layout_clone
 
-A new Flutter project.
+- **One of my personal digital nomad life projects (for practice).**
+- **Project current status: [complete]:ballot_box_with_check:**
+- **Tech**
+<p>
+  <div>
+    &emsp;
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&logoWidth=25" height="25px"/>
+  </div>
+  <div>
+    &emsp;
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&logoWidth=25" height="25px"/>
+  </div>
+</p>
 
-## Getting Started
+- **Preview Screenshots**
+<p>
+  <div>
+    &emsp;
+    <img width="300px" src="https://hansf14.github.io/flutter_financial_app_layout_clone/preview-screenshots/flutter-financial-app-layout-clone01.jpg" alt="flutter-financial-app-layout-clone01.jpg" />
+  </div>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
