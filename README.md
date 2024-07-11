@@ -18,7 +18,7 @@
 <p>
   <div>
     &emsp;
-    <img width="300px" src="https://hansf14.github.io/flutter_financial_app_layout_clone/preview-screenshots/flutter-financial-app-layout-clone01.jpg" alt="flutter-financial-app-layout-clone01.jpg" />
+    <img width="300px" src="preview-screenshots/flutter-financial-app-layout-clone01.jpg" alt="flutter-financial-app-layout-clone01.jpg" />
   </div>
 </p>
 
